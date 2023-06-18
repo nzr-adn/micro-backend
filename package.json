@@ -1,0 +1,8 @@
+{
+  "name": "micro-backend",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "",
+  "license": "UNLICENSED",
+  "private": true
+}
