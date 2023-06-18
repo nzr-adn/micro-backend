@@ -4,5 +4,10 @@
   "main": "index.js",
   "author": "",
   "license": "UNLICENSED",
-  "private": true
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "services/*", "shared"
+    ]
+  }
 }
